@@ -1,0 +1,5 @@
+admin.nodeInfo.enode
+miner.start()
+miner.setEtherbase(“627306090abab3a6e1400e9345bc60c78a8bef57”)
+miner.setEtherbase(“ox627306090abab3a6e1400e9345bc60c78a8bef57”)
+ls

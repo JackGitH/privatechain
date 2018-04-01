@@ -1,0 +1,8 @@
+miner.start()
+miner.setEtherbase("627306090abab3a6e1400e9345bc60c78a8bef57")
+miner.start()
+minerminer.stop()
+miner.stop()
+ls
+eth.getBalance("627306090abab3a6e1400e9345bc60c78a8bef57")
+eth.getBalance("f17f52151ebef6c7334fad080c5704d77216b732")
